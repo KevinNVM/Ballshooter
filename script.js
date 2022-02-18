@@ -453,7 +453,7 @@ function game_settings_difficulty_set_godlystoopidbruhwhydoyoudodistomemanstop()
 
 function openNav() {
     calculate()
-    document.getElementById("mySidepanel").style.width = "98vh";
+    document.getElementById("mySidepanel").style.width = "99vh";
     
   }
 
